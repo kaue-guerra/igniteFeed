@@ -29,7 +29,7 @@ export function Post() {
         </p>
         <p> Aut, cumque et.</p>
         <p>
-          <a href="">#Lorem #ipsum #dolor</a>
+          <a href="">#Lorem</a> <a href="">#ipsum</a> <a href="">#dolor</a>
         </p>
       </div>
     </article>
